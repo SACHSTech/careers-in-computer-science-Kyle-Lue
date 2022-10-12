@@ -25,12 +25,17 @@ The web developer must have some experience with User experience, the user inter
 design software like Photoshop and Illustrator and Sketch, an understanding of SEO, Web servers and how they function. They must also be able to work well with others and have good communication.
 ### Examples
 These are some examples of the different levels of web developers:
+| Type of Job        | Salary Range | City  |
+| ------------- |:-------------:| -----:|
+| Entry  | $59,000 - $79,000 a year| Vancouver |
+| Mid   |  $72,000 - $89,000 a year |   Waterloo|
+| Senior|  $130,000 - $170,000 a year  |  Toronto |
 1. __Entry Level Job: Konrad Entry Level Software Developer__
-* *Salary:* Estimated Amount - $59,000 - $78,000 a year
+* *Salary:* Estimated Amount - $59,000 - $78,000 per year
 * *City* - Vancouver, BC
 * *Job Description* - As an entry level Software Developer you'll be tasked with working on both mobile and web applications. Working within the software development team, your duties will require you to assist in the development of consumer and enterprise applications. This role is ideal for entry level developers who feel confident in their technical ability and want to be a part of the highly-skilled development team at Konrad.
 2. __Intermidiate Level Job: Scrawlr Intermediate Front-End Software Developer__ 
-* _Salary_ - $72,000 - $89,000 a year
+* _Salary_ - $72,000 - $89,000 per year
 * _City_ - Waterloo, ON
 * _Job Description_ - We are working on a transformational project that we believe will have a global impact, and we expect our team members to work on solving complex, unique technical problems on a daily basis. Front-end team members are given a high degree of product ownership and the latitude to propose and implement approaches that can be divergent from all standard or existing solutions.
 Scrawlr is committed to maintaining an environment in which all ideas are taken seriously and great ideas are adopted, allowing dedicated employees to effect change and to dictate their progression within the organization.
@@ -39,6 +44,8 @@ Scrawlr is committed to maintaining an environment in which all ideas are taken 
 * _City_ - Toronto, ON
 * _Job Description_ - We’re seeking a Senior Frontend Engineer to work in one of our product-driven teams, focused on building features that help our customers grow their business.We work efficiently and iteratively to ensure our products are modern, easy to use and ultimately make our users happy. More importantly, we're looking for people to build a team of collaborative, supportive and high-skilled engineers that take our user's experience to the next level.You'll work with React, JavaScript and TypeScript to create new features, iterate on existing features and build a cohesive experience to our users. You'll have the opportunity to work on a wide range of projects including greenfield features, experimental UX/UI improvements, paying down technical debt, improving existing features and everything in between.
 ### College and University Programs
+<img src= "https://www.yorku.ca/wp-content/themes/york2020/images/yorku-logo.jpg" width="250" height="100">
+
 University: York University
 Entrance Requirements: None as the Certificate in Full-Stack Web Development is a direct registration program. No application process is required; simply enrol in the session of your choice to get started.
 First Year programs: 
@@ -48,13 +55,26 @@ First Year programs:
 * CSFS1010 Web UI Concepts and Frameworks
 * CSFS1020 Server Side Programming and Tools
 * CSFS1050 Capstone Course
-These programs allow for the learning of different languages and visual components of a website for the web developer to learn.
+These programs allow for the learning of different languages and visual components of a website for the web developer to learn. They provide an introduction, a basis of what they are learning and provide the tools needed in order to create a good website.
 __Length of time:__ 11 months 
-Students should give 8-10 hours of pratice a week in order to hone what they have learned
+According to the course, students should give 8-10 hours of pratice a week in order to hone what they have learned
+### Experiencial Learning
+Internship: Front End Developer at IBM
+* Allows you to get experience from some of the big players in your field
+* Allows you to work with a team and build better co operative skills
+* Allows you to gain experience in this field
+Self Started Program: create a Amazon clone, customer relationship manager, sorting visualizer in order to improve your skills
+* Allows for project management skills and time management
+* Allows you to create a portfolio for you to use whenever you apply to showcase your skills
+Fairs: example: TECHSPO, DigiMarCon
+* Allows you to learn about any developments in this field and give you the chance to meet other people in this industry
+All of these can help you learn about the field that this is in and can allow for the improvement of technical and non-technical skills such as leadership, project management or communication
 ### Works Cited 
 Websites:
 
 Images: 
-" Clément Hélardot. “Black and Silver Laptop Computer on Table.” Unsplash.com, Unsplash, 3 Feb. 2018, https://unsplash.com/photos/95YRwf6CNw8. Accessed 12 Oct. 2022." 
+" Clément Hélardot. “Black and Silver Laptop Computer on Table.” Unsplash.com, Unsplash, 3 Feb. 2018, https://unsplash.com/photos/95YRwf6CNw8." 
+“York University | Right the Future.” York University, 11 Oct. 2022, https://www.yorku.ca/." 
 
+‌
 ‌
