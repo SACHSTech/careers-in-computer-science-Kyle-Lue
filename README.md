@@ -71,10 +71,20 @@ Fairs: example: TECHSPO, DigiMarCon
 All of these can help you learn about the field that this is in and can allow for the improvement of technical and non-technical skills such as leadership, project management or communication
 ### Works Cited 
 Websites:
+“Web Developer in Canada | Job Requirements.” Jobbank.gc.ca, 2022, https://www.jobbank.gc.ca/marketreport/requirements/17892/ca. "
+“Web Developers and Digital Designers : Occupational Outlook Handbook: : U.S. Bureau of Labor Statistics.” Bls.gov, 14 Sept. 2022, https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm#tab-5. "
+“What Does a Web Developer Do (and How Do I Become One)?” Coursera, 2022, www.coursera.org/articles/web-developer. Accessed 12 Oct. 2022.
+Betterteam. “Web Developer Job Description.” Betterteam, Betterteam, 7 Dec. 2020, https://www.betterteam.com/web-developer-job-description. "
+“Certificate in Full-Stack Web Development.” School of Continuing Studies, 24 Jan. 2022, https://continue.yorku.ca/programs/certificate-in-full-stack-web-development/. "
+Great Learning. “25 Web Development Projects You Must Work On.” GreatLearning Blog: Free Resources What Matters to Shape Your Career!, 14 Apr. 2022, https://www.mygreatlearning.com/blog/web-development-project-ideas/. ‌"
+“Front End Developer Intern (4 Months) at IBM - Markham, Ontario.” TalentEgg, 2021, https://talentegg.ca/employer/ibm/jobs/front-end-developer-intern--4-months--1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic. " ‌
+“TECHSPO Toronto 2022 Technology Expo (Internet ~ Mobile ~ AdTech ~ MarTech ~ SaaS).” TECHSPO Toronto Technology Expo |, 16 Nov. 2019, https://techspotoronto.ca/canada-web-development-events/. " 
+“TECHSPO Toronto 2022 Technology Expo (Internet ~ Mobile ~ AdTech ~ MarTech ~ SaaS).” TECHSPO Toronto Technology Expo |, 16 Nov. 2019, https://techspotoronto.ca/canada-web-development-events/. "
+‌“All Senior Level Web Developer Jobs | Workopolis.” Workopolis.com, 3 Oct. 2022, https://www.workopolis.com/jobsearch/find-jobs?ak=senior+level+web+developer&l=&job=A9_YtIKoQFqT5n-l2xP8Fah3XECTXXWUQQdGaOTkSVcbge2996ToKg. " 
 
 Images: 
-" Clément Hélardot. “Black and Silver Laptop Computer on Table.” Unsplash.com, Unsplash, 3 Feb. 2018, https://unsplash.com/photos/95YRwf6CNw8." 
-“York University | Right the Future.” York University, 11 Oct. 2022, https://www.yorku.ca/." 
+" Clément Hélardot. “Black and Silver Laptop Computer on Table.” Unsplash.com, Unsplash, 3 Feb. 2018, https://unsplash.com/photos/95YRwf6CNw8. " 
+“York University | Right the Future.” York University, 11 Oct. 2022, https://www.yorku.ca/. " 
 
 ‌
 ‌
