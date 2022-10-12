@@ -4,5 +4,12 @@
 # Web Developer 
 ### Description of Job
 A **web developer** is someone who has to develop and maintain websites. They build websites and are there in order to make sure they work smoothly, reliably and efficiently. While their primary role is to ensure the website is visually appealing and easy to navigate, many web developers are also responsible for the website’s performance and capacity. 
+### Duties and Responsibilities
+* Designing user interfaces and navigation menus
+* Writing and reviewing code for sites, typically HTML, XML, or JavaScript
+* Integrating multimedia content onto a site
+* Testing web applications
+* Troubleshooting problems with performance or user experience
+* Collaborating with designers, developers, and stakeholders
 ### Required Education
 According to the Government of Canada, in order to become a web developer, you must have a bachelor's degree in computer science, communications or business or the completion of a college program in computer science, graphic arts, web design or business is required. You must also have solid knowledge and experience in programming applications such as JavaScript, HTML and CSS.
