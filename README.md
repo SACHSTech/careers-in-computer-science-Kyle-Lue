@@ -2,7 +2,7 @@
 # Careers in Computer Science
 
 # Web Developer 
-<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80">
+<img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" width="500" height="500">
 
 ### Description of Job
 A **web developer** is someone who has to develop and maintain websites. They build websites and are there in order to make sure they work smoothly, reliably and efficiently. While their primary role is to ensure the website is visually appealing and easy to navigate, many web developers are also responsible for the website’s performance and capacity. The typical _salary_ of a web developer can range from $38,500 USD up to $168,200 USD with the median being $79,890 USD according to the US Bureau of Labour.
@@ -40,22 +40,17 @@ Scrawlr is committed to maintaining an environment in which all ideas are taken 
 * _Job Description_ - We’re seeking a Senior Frontend Engineer to work in one of our product-driven teams, focused on building features that help our customers grow their business.We work efficiently and iteratively to ensure our products are modern, easy to use and ultimately make our users happy. More importantly, we're looking for people to build a team of collaborative, supportive and high-skilled engineers that take our user's experience to the next level.You'll work with React, JavaScript and TypeScript to create new features, iterate on existing features and build a cohesive experience to our users. You'll have the opportunity to work on a wide range of projects including greenfield features, experimental UX/UI improvements, paying down technical debt, improving existing features and everything in between.
 ### College and University Programs
 University: York University
-Entrance Requirements: None
+Entrance Requirements: None as the Certificate in Full-Stack Web Development is a direct registration program. No application process is required; simply enrol in the session of your choice to get started.
 First Year programs: 
 * CSFS1000 Foundations of Full-Stack Web Development
-+ Intro to tools that make the web run
-CSFS1030 Database Design and Principles
-Design of the website
-CSFS1060 Introduction to Coding with JavaScript
-Javascript learning 
-CSFS1010 Web UI Concepts and Frameworks
-UI learning 
-CSFS1020 Server Side Programming and Tools
-Learning about the server
-CSFS1050 Capstone Course
-Review to top off the course
-Length of time: 11 months
-
+* CSFS1030 Database Design and Principles
+* CSFS1060 Introduction to Coding with JavaScript
+* CSFS1010 Web UI Concepts and Frameworks
+* CSFS1020 Server Side Programming and Tools
+* CSFS1050 Capstone Course
+These programs allow for the learning of different languages and visual components of a website for the web developer to learn.
+__Length of time:__ 11 months 
+Students should give 8-10 hours of pratice a week in order to hone what they have learned
 ### Works Cited 
 Websites:
 
